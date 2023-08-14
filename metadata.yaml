@@ -1,0 +1,36 @@
+_repo: Swiss-allmends-and-a-walk-to-see-them-b-being-a-second-month-in-Switzerland_71246
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Zincke, F. Barham (Foster Barham)
+    aliases:
+    - Zincke, Foster Barham
+    - M. E.
+    - E., M.
+    birthdate: 1817
+    deathdate: 1893
+    gutenberg_agent_id: '55531'
+    url: http://www.gutenberg.org/2009/agents/55531
+    wikipedia: https://en.wikipedia.org/wiki/Foster_Barham_Zincke
+description: ''
+gutenberg_issued: '2023-07-21'
+identifiers:
+  gutenberg: '71246'
+  lccn: 04008919
+language: en
+pgterms:marc905: 20131026080431fosterbarh
+pgterms:marc906: '1874'
+pgterms:marc907: GB
+production_note: Ann Jury, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bSmith, Elder & Co., $c1874.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Switzerland -- Description and travel'
+- !lcc 'DQ'
+- GITenberg
+title: 'Swiss allmends, and a walk to see them : $b being a second month in Switzerland'
+url: http://www.gutenberg.org/ebooks/71246
